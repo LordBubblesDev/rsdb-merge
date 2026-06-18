@@ -1,7 +1,7 @@
-# rsdb-merge [![Downloads](https://img.shields.io/github/downloads/MasterBubbles/rsdb-merge/total)](https://github.com/MasterBubbles/rsdb-merge/releases)
+# rsdb-merge [![Downloads](https://img.shields.io/github/downloads/LordBubblesDev/rsdb-merge/total)](https://github.com/LordBubblesDev/rsdb-merge/releases)
 This tool can merge all RSDB file types from TOTK (the files located in `romfs\RSDB`).<br>Mods that contain such a folder are typically standalone weapons or armors.
 
-<img src="https://raw.githubusercontent.com/MasterBubbles/rsdb-merge/master/images/screenshot.png">
+<img src="https://raw.githubusercontent.com/LordBubblesDev/rsdb-merge/master/images/screenshot.png">
 
 ## For merging mods
 
